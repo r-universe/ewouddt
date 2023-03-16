@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BiBitR"]
+	path = BiBitR
+	url = https://github.com/ewouddt/bibitr
+	shallow = true
+	registered = true
+[submodule "CSFA"]
+	path = CSFA
+	url = https://github.com/ewouddt/csfa
+	shallow = true
+	registered = true
