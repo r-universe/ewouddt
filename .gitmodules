@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BcDiag"]
 	path = BcDiag
 	url = https://github.com/cran/BcDiag
-	shallow = true
-	registered = true
 [submodule "BiBitR"]
 	path = BiBitR
 	url = https://github.com/ewouddt/bibitr
-	shallow = true
-	registered = true
 [submodule "CSFA"]
 	path = CSFA
 	url = https://github.com/ewouddt/csfa
-	shallow = true
-	registered = true
 [submodule "RcmdrPlugin.BiclustGUI"]
 	path = RcmdrPlugin.BiclustGUI
 	url = https://github.com/cran/RcmdrPlugin.BiclustGUI
-	shallow = true
-	registered = true
