@@ -8,9 +8,6 @@
 [submodule "BiBitR"]
 	path = BiBitR
 	url = https://github.com/ewouddt/bibitr
-[submodule "CSFA"]
-	path = CSFA
-	url = https://github.com/ewouddt/csfa
 [submodule "RcmdrPlugin.BiclustGUI"]
 	path = RcmdrPlugin.BiclustGUI
 	url = https://github.com/cran/RcmdrPlugin.BiclustGUI
