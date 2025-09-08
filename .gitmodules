@@ -8,6 +8,3 @@
 [submodule "BiBitR"]
 	path = BiBitR
 	url = https://github.com/ewouddt/bibitr
-[submodule "RcmdrPlugin.BiclustGUI"]
-	path = RcmdrPlugin.BiclustGUI
-	url = https://github.com/cran/RcmdrPlugin.BiclustGUI
